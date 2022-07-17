@@ -1,0 +1,7 @@
+#Fri Jul 15 00:42:18 IST 2022
+datanodeUuid=620c4700-ae31-4619-aa98-b2c84ca1bb12
+storageType=DATA_NODE
+cTime=0
+clusterID=CID-2782d67b-ee2c-48eb-a2d9-3233fa7b5aac
+layoutVersion=-57
+storageID=DS-9b279833-8e42-4c97-b3ad-40dd939fad8c
