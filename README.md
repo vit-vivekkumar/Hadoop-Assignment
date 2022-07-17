@@ -10,7 +10,7 @@ sudo apt-get install default-jdk
 Make sure now java is installed. 
 java -version
 
-![alt text](https://funkylife.in/wp-content/uploads/2022/01/love-shayari-9.jpg)
+![alt text]()
 
 
 
